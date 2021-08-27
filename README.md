@@ -52,7 +52,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |  
-
+| Thilini Saram           | Section 002       | ThilSaram            | <https://thilsaram.github.io/testA/>                     |
 <br>
 
 # Integration of RStudio with Git

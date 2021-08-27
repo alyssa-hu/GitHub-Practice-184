@@ -19,26 +19,26 @@
     - Choose the theme that you prefer
     - You see a note that says "Your site is published at [your-link]"; make a note of this link  
     - Modify content in the README if you like, but it's fine to use filler content provided for now  
-- Go to Alyssa's GitHub-Practice-184 repo (that generated this page)! Steps: 
-    - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "alyssa-hu", and find the GitHub-Practice-184 repo
-    - [Top right of Alyssa's GitHub-Practice-184 repo] >> Click on the "Fork" to create your own copy of the class repo
-    - You should now have a copy of the repo which says "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `alyssa-hu/GitHub-Practice-184`
+- Go to Thilini's GitHub-Practice-184 repo (that generated this page)! Steps: 
+    - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "ThilSaram", and find the GitHub-Practice-184 repo
+    - [Top right of Thilini's GitHub-Practice-184 repo] >> Click on the "Fork" to create your own copy of the class repo
+    - You should now have a copy of the repo which says "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `ThilSaram/GitHub-Practice-184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information! Steps: 
-    - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Alyssa Hu" row as a template
+    - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Thilini Saram" row as a template
     - (2 pts) Add your First & Last Name  
     - (2 pt)  Add your Class Section
     - (2 pts) Add your GitHub ID  
     - (2 pts) Add your link (that you made a note of above) for the website generated from your new GitHub repo (should include "[your-userID].github.io" at the beginning)
     - (1 pts) You must commit your changes!
-        - Write a descriptive commit message (e.g. "added Alyssa Hu to class table")
+        - Write a descriptive commit message (e.g. "added Thilini Saram to class table")
         - Use the default setting of Commit directly to the `main` branch
         - Click the green button "Commit changes" 
-- Merge your updated copy of the repo with Alyssa's repo! Steps:
+- Merge your updated copy of the repo with Thilini's repo! Steps:
     - [Top right of YOUR GitHub-Practice-184 repo] >> Click "Pull requests" >> Click green button "New Pull Request"
-    - GitHub will take you to MY (Alyssa's) copy of the repo (`alyssa-hu/GitHub-Practice-184` at the top)
+    - GitHub will take you to MY (Thilini's) copy of the repo (`ThilSaram/GitHub-Practice-184` at the top)
     - Click the green button "Create pull request"
-    - Describe the change again (e.g. "added Alyssa Hu to class table")
+    - Describe the change again (e.g. "added Thilini Saram to class table")
     - (1 pt) You must click the green button "Create pull request" so that I can see your edit!
 - You're done!  
  

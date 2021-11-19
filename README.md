@@ -1,7 +1,7 @@
 
-# GitHub Pages Assignment
+# GitHub Pages Assignment(Merge Conflict B)
 
-**(10 pts) Assignment Instructions**
+**(10 pts) Assignment Instructions** (Merge Conflict B)
 
 *Go slowly, follow the instructions carefully, and you'll be fine! See the point breakdown below in the assignment. Ask questions in class or on Piazza.*
 

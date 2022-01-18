@@ -78,7 +78,7 @@
 | Dong Hyun Lee           | Section 001       | dul199               | <https://dul199.github.io/GitHub-Practice-184/>          |
 | Ashik Sathiya           | Section 001       | AshikSathiya26       | <https://ashiksathiya26.github.io/Project_1/>            | 
 | Luyang Feng             | Section 001       | LuyangFeng2000       | <https://luyangfeng2000.github.io/GitHub_Practice/>      |  
-
+| Jinfan Yang             | Section 001       | YangJinfan           | <https://yangjinfan.github.io/STAT-184/>                 | 
 # Integration of RStudio with Git
 
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration) 

@@ -45,7 +45,6 @@
 
 <br>
 
-
 # Class GitHub Table 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
@@ -66,7 +65,7 @@
 | Kevin Masi              | Section 001       | KatsuoSora           | <https://katsuosora.github.io/Stats/>                    |
 | Nathan Knox             | Section 001       | NathanKnox7          | <https://nathanknox7.github.io/STAT184-Github-Practice/> |
 | Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>               |
-| JunSung Kim             | Section 001       | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
+| JunSung Km              |  Section 001      | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
 | Sanidhya Singh          | Section 001       | sxs6549              | <https://sunny6549.github.io/STAT184GitHubPractice/>     |
 | Xuan Li                 | Section 001       | LHLFOREVER           | <https://lhlforever.github.io/STAT184-PRACTICE/>         |
 | Christopher Abrams      | Section 001       | chrisabrams3         | <https://chrisabrams3.github.io/animated-broccoli/>      |
@@ -78,6 +77,7 @@
 | Dong Hyun Lee           | Section 001       | dul199               | <https://dul199.github.io/GitHub-Practice-184/>          |
 | Ashik Sathiya           | Section 001       | AshikSathiya26       | <https://ashiksathiya26.github.io/Project_1/>            | 
 | Luyang Feng             | Section 001       | LuyangFeng2000       | <https://luyangfeng2000.github.io/GitHub_Practice/>      |  
+| Utkarsh Sinha           | Section 001       | sinhautkarsh31       | <https://sinhautkarsh31.github.io/Utkarsh-Sinha/>        |
 
 # Integration of RStudio with Git
 

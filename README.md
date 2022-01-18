@@ -76,6 +76,7 @@
 | Xunyu Shen              | Section 001       | xunyushen            | <https://xunyushen.github.io/Stat184/>                   |
 | Amal Ronak              | Section 001       | AmalRonak23          | <https://amalronak23.github.io/AmalFirstRepo/>           | 
 | Xiaoyi Chen             | Section 001       | cxy239               | <https://cxy239.github.io/Stat184_github-practice/>      |
+| Dong Hyun Lee           | Section 001       | dul199               | <https://dul199.github.io/GitHub-Practice-184/>          |
 
 # Integration of RStudio with Git
 

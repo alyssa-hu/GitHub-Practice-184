@@ -47,7 +47,6 @@
 
 
 # Class GitHub Table 
-
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
@@ -77,6 +76,7 @@
 | Amal Ronak              | Section 001       | AmalRonak23          | <https://amalronak23.github.io/AmalFirstRepo/>           | 
 | Xiaoyi Chen             | Section 001       | cxy239               | <https://cxy239.github.io/Stat184_github-practice/>      |
 | Dong Hyun Lee           | Section 001       | dul199               | <https://dul199.github.io/GitHub-Practice-184/>          |
+| Ashik Sathiya           | Section 001       | AshikSathiya26       | <https://ashiksathiya26.github.io/Project_1/>            | 
 
 # Integration of RStudio with Git
 

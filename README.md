@@ -45,11 +45,11 @@
 
 <br>
 
-
 # Class GitHub Table 
+
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Chenyu Wang             | Section 001       | ChenyuW173           | <https://ChenyuW173.github.io/GitHub-Practice-184/>       |
+| Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-Demo/>       |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
 | Nikhil Melligeri        | Section 001       | nikhil-melligeri     | <https://nikhil-melligeri.github.io/stat184-github-prac/>| 
 | Ethan Leicht            | Section 001       | ethanleicht          | <https://github.com/ethanleicht/stat184-github-practice> |
@@ -66,11 +66,11 @@
 | Kevin Masi              | Section 001       | KatsuoSora           | <https://katsuosora.github.io/Stats/>                    |
 | Nathan Knox             | Section 001       | NathanKnox7          | <https://nathanknox7.github.io/STAT184-Github-Practice/> |
 | Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>               |
-| JunSung Kim             | Section 001       | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
+| JunSung Km              |  Section 001      | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
 | Sanidhya Singh          | Section 001       | sxs6549              | <https://sunny6549.github.io/STAT184GitHubPractice/>     |
 | Xuan Li                 | Section 001       | LHLFOREVER           | <https://lhlforever.github.io/STAT184-PRACTICE/>         |
 | Christopher Abrams      | Section 001       | chrisabrams3         | <https://chrisabrams3.github.io/animated-broccoli/>      |
-| Will Gerity             |  Section 001      |  willgerity          | <https://willgerity.github.io/GitHub-Practice-184/>      |
+| Will Gerity             | Section 001       |  willgerity          | <https://willgerity.github.io/GitHub-Practice-184/>      |
 | Jonathan Kelso          | Section 001       | jdk5754              | <https://jdk5754.github.io/kelso-practice/>              |
 | Xunyu Shen              | Section 001       | xunyushen            | <https://xunyushen.github.io/Stat184/>                   |
 | Amal Ronak              | Section 001       | AmalRonak23          | <https://amalronak23.github.io/AmalFirstRepo/>           | 
@@ -78,6 +78,11 @@
 | Dong Hyun Lee           | Section 001       | dul199               | <https://dul199.github.io/GitHub-Practice-184/>          |
 | Ashik Sathiya           | Section 001       | AshikSathiya26       | <https://ashiksathiya26.github.io/Project_1/>            | 
 | Luyang Feng             | Section 001       | LuyangFeng2000       | <https://luyangfeng2000.github.io/GitHub_Practice/>      |  
+| Zihao Qin               | STAT184 001       | transposeuseless     | https://transposeuseless.github.io/stat184               |
+| Guoheng Wu              | Section 001       | guohengwu            | <https://guohengwu.github.io/GithubPractice/>            |  
+| Jinfan Yang             | Section 001       | YangJinfan           | <https://yangjinfan.github.io/STAT-184/>                 | 
+| Utkarsh Sinha           | Section 001       | sinhautkarsh31       | <https://sinhautkarsh31.github.io/Utkarsh-Sinha/>        |
+| Chenyu Wang             | Section 001       | ChenyuW173           | <https://ChenyuW173.github.io/GitHub-Practice-184/>      |
 
 # Integration of RStudio with Git
 

@@ -83,7 +83,7 @@
 | Jinfan Yang             | Section 001       | YangJinfan           | <https://yangjinfan.github.io/STAT-184/>                 | 
 | Utkarsh Sinha           | Section 001       | sinhautkarsh31       | <https://sinhautkarsh31.github.io/Utkarsh-Sinha/>        |
 | Chenyu Wang             | Section 001       | ChenyuW173           | <https://ChenyuW173.github.io/GitHub-Practice-184/>      |
-| Ming Wang               | Section 001       | ming06.              | <https://github.com/ming061/GitHub-Practice-184>         | 
+| Ming Wang               | Section 001       | ming061              | <https://github.com/ming061/GitHub-Practice-184>         | 
 
 # Integration of RStudio with Git
 

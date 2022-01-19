@@ -80,6 +80,8 @@
 | Ashik Sathiya           | Section 001       | AshikSathiya26       | <https://ashiksathiya26.github.io/Project_1/>            | 
 | Luyang Feng             | Section 001       | LuyangFeng2000       | <https://luyangfeng2000.github.io/GitHub_Practice/>      |  
 | Zihao Qin               | STAT184 001       | transposeuseless     | https://transposeuseless.github.io/stat184               |
+| Guoheng Wu              | Section 001       | guohengwu            | <https://guohengwu.github.io/GithubPractice/>            |  
+
 
 
 # Integration of RStudio with Git

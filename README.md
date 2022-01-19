@@ -66,7 +66,7 @@
 | Kevin Masi              | Section 001       | KatsuoSora           | <https://katsuosora.github.io/Stats/>                    |
 | Nathan Knox             | Section 001       | NathanKnox7          | <https://nathanknox7.github.io/STAT184-Github-Practice/> |
 | Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>               |
-| JunSung Km              |  Section 001      | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
+| JunSung Km              | Section 001       | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
 | Sanidhya Singh          | Section 001       | sxs6549              | <https://sunny6549.github.io/STAT184GitHubPractice/>     |
 | Xuan Li                 | Section 001       | LHLFOREVER           | <https://lhlforever.github.io/STAT184-PRACTICE/>         |
 | Christopher Abrams      | Section 001       | chrisabrams3         | <https://chrisabrams3.github.io/animated-broccoli/>      |
@@ -83,6 +83,7 @@
 | Jinfan Yang             | Section 001       | YangJinfan           | <https://yangjinfan.github.io/STAT-184/>                 | 
 | Utkarsh Sinha           | Section 001       | sinhautkarsh31       | <https://sinhautkarsh31.github.io/Utkarsh-Sinha/>        |
 | Chenyu Wang             | Section 001       | ChenyuW173           | <https://ChenyuW173.github.io/GitHub-Practice-184/>      |
+| Ming Wang               | Section 001       | ming06.              | <https://github.com/ming061/GitHub-Practice-184>         | 
 
 # Integration of RStudio with Git
 

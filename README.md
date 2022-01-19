@@ -81,6 +81,7 @@
 | Luyang Feng             | Section 001       | LuyangFeng2000       | <https://luyangfeng2000.github.io/GitHub_Practice/>      |  
 | Zihao Qin               | STAT184 001       | transposeuseless     | https://transposeuseless.github.io/stat184               |
 | Guoheng Wu              | Section 001       | guohengwu            | <https://guohengwu.github.io/GithubPractice/>            |  
+| Jinfan Yang             | Section 001       | YangJinfan           | <https://yangjinfan.github.io/STAT-184/>                 | 
 
 
 

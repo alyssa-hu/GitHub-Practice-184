@@ -84,6 +84,7 @@
 | Utkarsh Sinha           | Section 001       | sinhautkarsh31       | <https://sinhautkarsh31.github.io/Utkarsh-Sinha/>        |
 | Chenyu Wang             | Section 001       | ChenyuW173           | <https://ChenyuW173.github.io/GitHub-Practice-184/>      |
 | Ming Wang               | Section 001       | ming061              | <https://ming061.github.io/GitHub-Practice-184/>         | 
+| Zane Shober             | Section 001       | zgs5018              | <https://shobzane.github.io/ZaneShober-Stat184/>         |
 
 # Integration of RStudio with Git
 
